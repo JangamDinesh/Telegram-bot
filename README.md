@@ -9,7 +9,7 @@
 
 ## Instructions to create your own bot
 
-- Clone the [Telegram_bot](https://github.com/JangamDinesh/Telegram-bot) repository using the following command:\
+- Clone the [Telegram-bot](https://github.com/JangamDinesh/Telegram-bot) repository using the following command:\
 `$ git clone https://github.com/JangamDinesh/Telegram-bot.git`
 - Install the project requirements from requirements.txt using the following command:\
 `$ pip install -r requirements.txt`
